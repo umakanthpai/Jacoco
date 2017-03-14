@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/MyDataInDrive/Work/CEC/jacoco/jacoco-0.7.8-20160818.080336-16/lib/jacocoagent.jar"/>
+	<classpathentry kind="lib" path="D:/MyDataInDrive/Work/CEC/jacoco/jacoco-0.7.8-20160818.080336-16/lib/jacocoant.jar" sourcepath="D:/MyDataInDrive/Work/CEC/jacoco/jacoco-0.7.7.zip"/>
+	<classpathentry kind="lib" path="D:/MyDataInDrive/Work/CEC/jacoco/jacoco-0.7.8-20160818.080336-16/lib/org.jacoco.agent-0.7.8.201608180753.jar"/>
+	<classpathentry kind="lib" path="D:/MyDataInDrive/Work/CEC/jacoco/jacoco-0.7.8-20160818.080336-16/lib/org.jacoco.ant-0.7.8.201608180753.jar"/>
+	<classpathentry kind="lib" path="D:/MyDataInDrive/Work/CEC/jacoco/jacoco-0.7.8-20160818.080336-16/lib/org.jacoco.core-0.7.8.201608180753.jar"/>
+	<classpathentry kind="lib" path="D:/MyDataInDrive/Work/CEC/jacoco/jacoco-0.7.8-20160818.080336-16/lib/org.jacoco.report-0.7.8.201608180753.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
